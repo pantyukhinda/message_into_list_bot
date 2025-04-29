@@ -115,7 +115,7 @@ You can learn how to develop telegram bots using the `aiogram` framework in the 
 ├── docker-compose.example
 ├── docker-compose.yml
 ├── main.py
-├── poetry.lock
+├─nd copy the c─ poetry.lock
 ├── pyproject.toml
 └── README.md
 ```
